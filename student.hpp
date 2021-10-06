@@ -7,8 +7,8 @@ using namespace std;
 // ===============
 // implementations
 
-//Replace string function
-bool yearChecker(int year)
+//Exercise
+bool areOdd(int a, int b)
 {
 	return 0; // TODO: fix
 }
